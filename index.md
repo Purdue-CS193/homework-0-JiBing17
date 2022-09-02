@@ -1,6 +1,18 @@
 ## Welcome to GitHub Pages
 
+
+
+
 hey first time typing on this page!
+# <Ji Bing>'s First CS193 Homework
+  - the info i'll be getting!
+  - the people I'll be meeting!
+  - The experience I'll be receiving!
+  
+  
+  
+  
+  
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
