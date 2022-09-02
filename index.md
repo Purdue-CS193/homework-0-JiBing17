@@ -5,8 +5,9 @@
 
 hey first time typing on this page!
 # JiBing's First CS193 Homework
-  - the info i'll be getting!
-  - the people I'll be meeting!
+- three things i'm excited for in cs193
+  - The info i'll be getting!
+  - The people I'll be meeting!
   - The experience I'll be receiving!
   
   
